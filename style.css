@@ -1,0 +1,12 @@
+a{
+  text-decoration: none;
+}
+
+header{
+  margin: 0%;
+  border: 5px solid black;
+}
+
+#logo{
+  font-family: cursive;
+}
